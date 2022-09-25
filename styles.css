@@ -101,6 +101,10 @@ h1 {
     float: right;
 }
 
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 /* .lol {
     display: block;
@@ -115,11 +119,6 @@ h1 {
     }
 } */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-    /* width: 350px; */
-}
 
 .protitle {
     font-size: 2rem;
@@ -182,6 +181,9 @@ hr {
     padding-bottom: 2%;
 }
 
+a:hover {
+    color: rgb(249, 153, 143);
+}
 
 /* 
 a {
