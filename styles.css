@@ -102,16 +102,6 @@ h1 {
 }
 
 
-a:hover {
-    color: rgb(249, 153, 143);
-      text-decoration: none;
-}
-
-a:hover {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 /* .lol {
     display: block;
     width: 300px;
@@ -125,6 +115,11 @@ a:hover {
     }
 } */
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+    /* width: 350px; */
+}
 
 .protitle {
     font-size: 2rem;
@@ -190,6 +185,7 @@ hr {
 a:hover {
     color: rgb(249, 153, 143);
 }
+
 
 /* 
 a {
