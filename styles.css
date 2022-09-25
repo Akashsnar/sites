@@ -101,6 +101,12 @@ h1 {
     float: right;
 }
 
+
+a:hover {
+    color: rgb(249, 153, 143);
+      text-decoration: none;
+}
+
 a:hover {
     color: #ffffff;
     text-decoration: none;
